@@ -1,7 +1,7 @@
 # House-prices-prediction
 ## 01 EDA
-### Plotting the features
-...
+### Correlations
+![Alt text](plots/corr_heatmap.png?raw=true "Correlation heatmap")
 ### Correlations
 The features that correlate most with SalePrice are:
 1. OverallQual - 0.79 (Rates the overall material and finish of the house)
