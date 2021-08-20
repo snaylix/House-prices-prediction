@@ -1,8 +1,13 @@
 # House-prices-prediction
+
 ## 01 EDA
+
+### Features
+![Alt text](plots/SalePrice_histplot.png?raw=true "Histplot for dependent variable ('SalePrice')")
+
 ### Correlations
 ![Alt text](plots/corr_heatmap.png?raw=true "Correlation heatmap")
-### Correlations
+
 The features that correlate most with SalePrice are:
 1. OverallQual - 0.79 (Rates the overall material and finish of the house)
 2. GrLivArea - 0.71 (Above ground living area in square feet)
@@ -14,3 +19,5 @@ The features that correlate most with SalePrice are:
 8. TotRmsAbvGrd - 0.53 (Total rooms above grade)
 9. YearBuilt - 0.52 (Original construction date)
 10. YearRemodAdd - 0.51 (Remodel date)
+
+![Alt text](plots/corr_heatmap_SalePrice.png?raw=true "Correlation heatmap - 'SalePrice'")
