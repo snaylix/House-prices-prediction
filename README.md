@@ -3,7 +3,10 @@
 ## 01 EDA
 
 ### Features
+#### Dependent variable: SalePrice
 ![Alt text](plots/SalePrice_histplot.png?raw=true "Histplot for dependent variable ('SalePrice')")
+
+We got 1460 sale prices with a mean of roughly 181K and a median of 163K. It is positively skewed. The maximum value is 755K and the minimum value is 35K. With a σ of 79K the values are fairly volatile. Lower and upper percentile are 130K and 755K respectively.
 
 ### Correlations
 ![Alt text](plots/corr_heatmap.png?raw=true "Correlation heatmap")
