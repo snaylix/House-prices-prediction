@@ -24,3 +24,6 @@ The features that correlate most with SalePrice are:
 10. YearRemodAdd - 0.51 (Remodel date)
 
 ![Alt text](plots/corr_heatmap_SalePrice.png?raw=true "Correlation heatmap - 'SalePrice'")
+
+### Predictions
+![Alt text](plots/prediction_plot.png?raw=true "Predictions")
