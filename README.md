@@ -8,6 +8,9 @@
 
 We got 1460 sale prices with a mean of roughly 181K and a median of 163K. It is positively skewed. The maximum value is 755K and the minimum value is 35K. With a σ of 79K the values are fairly volatile. Lower and upper percentile are 130K and 755K respectively.
 
+### Imputation
+There's effectively only one missing value in the Electrical column, the rest is can be relabeled according to the documentation. I chose to fill the missing value with the mode (SBrkr    Standard Circuit Breakers & Romex).
+
 ### Correlations
 ![Alt text](plots/corr_heatmap.png?raw=true "Correlation heatmap")
 
