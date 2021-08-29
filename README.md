@@ -1,6 +1,9 @@
 # House-prices-prediction
 
-## 01 EDA
+## 01 Initial condition and motivation
+Having recently started working in proptech, I started exploring options on how machine learning and data analytics may help to get a thorough understanding of the real estate market and provide automated and reliable solutions. As a first step, I plan to build a house prices prediction model. Armed with the Ames Housing dataset I set myself to work ...
+
+## 02 EDA
 
 ### Features
 #### Dependent variable: SalePrice
@@ -28,5 +31,5 @@ The features that correlate most with SalePrice are:
 
 ![Alt text](plots/corr_heatmap_SalePrice.png?raw=true "Correlation heatmap - 'SalePrice'")
 
-### Predictions
+## 03 Predictions
 ![Alt text](plots/prediction_plot.png?raw=true "Predictions")
