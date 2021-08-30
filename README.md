@@ -1,7 +1,7 @@
 # House-prices-prediction
 
-## 01 Initial condition and motivation
-Having recently started working in proptech, I started exploring options on how machine learning and data analytics may help to get a thorough understanding of the real estate market and provide automated and reliable solutions. As a first step, I plan to build a house prices prediction model. Armed with the Ames Housing dataset I set myself to work ...
+## 01 Initial motivation
+Having recently started working in proptech, I want to get a thorough understanding of the real estate market. I seek to explore options on how machine learning and data analytics may be of use in developing automated and reliable solutions for classical real estate problems. As a first step, I plan to build a house prices prediction model. Armed with the Ames Housing dataset I set myself to work ...
 
 ## 02 EDA
 
