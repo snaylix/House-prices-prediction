@@ -32,5 +32,9 @@ The features that correlate most with SalePrice are:
 
 ![Alt text](plots/corr_heatmap_SalePrice.png?raw=true "Correlation heatmap - 'SalePrice'")
 
+![Alt text](plots/corr_heatmap_top10.png?raw=true "Correlation heatmap - Top 10 correlated features")
+
+![Alt text](plots/pairplot_top5.png?raw=true "Pairplot - Top 5 correlated features")
+
 ## 03 Predictions
 ![Alt text](plots/prediction_plot.png?raw=true "Predictions")
