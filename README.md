@@ -36,5 +36,8 @@ The features that correlate most with SalePrice are:
 
 ![Alt text](plots/pairplot_top5.png?raw=true "Pairplot - Top 5 correlated features")
 
+#### Correlations in-between features
+![Alt text](plots/correlations_features.png?raw=true "Top 10 correlations in-between features")
+
 ## 03 Predictions
 ![Alt text](plots/prediction_plot.png?raw=true "Predictions")
