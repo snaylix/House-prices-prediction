@@ -15,6 +15,9 @@ We got 1460 datapoints, with a mean of roughly 181K and a median of 163K. It is 
 ### Imputation
 There's effectively only one missing value in the Electrical column, the rest can be relabeled according to the documentation. I chose to fill the one missing value with the mode of the column, i. e. `SBrkr` (Standard Circuit Breakers & Romex).
 
+### Outliers
+![Alt text](plots/outliers.png?raw=true "Outliers")
+
 ### Correlations
 ![Alt text](plots/corr_heatmap.png?raw=true "Correlation heatmap")
 
